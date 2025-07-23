@@ -1,4 +1,4 @@
-# 👶 Baby Cry Classification using Deep Learning
+# Baby Cry Classification using Deep Learning
 
 ![baby-cry](https://img.shields.io/badge/Baby%20Cry-Classifier-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
